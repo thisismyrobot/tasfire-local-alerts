@@ -5,3 +5,5 @@ feed by GPS coordinates.
 
 It's actually filtering by the `<georss:point>` tags so you can apply this
 code to any [GeoRSS](https://en.wikipedia.org/wiki/GeoRSS) RSS feed.
+
+The script is formatted to [Standard JS](https://standardjs.com) convention.
